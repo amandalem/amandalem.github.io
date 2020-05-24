@@ -1,5 +1,5 @@
 ---
-title: CTBA Class Materials
+title: Amanda's CTBA Site
 description: Here is a test site for my CTBA class
 ---
 
