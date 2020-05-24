@@ -1,5 +1,5 @@
 ---
-title: M3 GitHub Repository Assignment
+title: CTBA Class Materials
 description: Here is a test site for my CTBA class
 ---
 
