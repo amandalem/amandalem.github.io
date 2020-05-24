@@ -1,5 +1,5 @@
 ---
-title: Amanda's M3 Graphing Assignment
+title: Amanda's M3 Assignment
 description: Here is the graphing assignment for Amanda Lemerise
 ---
 
