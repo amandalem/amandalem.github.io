@@ -1,6 +1,6 @@
 ---
-title: M3 GitHub
-description: Included in this website are the requirements for the M3 assignment.
+title: [The title of your site]
+description: [A short description of your site's purpose]
 ---
 
 ![My Picture](/pictures/GCPicture.jpg)
