@@ -3,7 +3,7 @@ title: [M3 GitHub]
 description: [Included in this website are the requirements for the M3 assignment.]
 ---
 
-![My Picture](/pics/)
+![My Picture](/pictures/GCPicture.jpg)
 
 This is content I worked on for my CTBA course:
 
