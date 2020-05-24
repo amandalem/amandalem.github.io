@@ -1,6 +1,6 @@
 ---
 title: Amanda's CTBA Site
-description: [Here is a test site for my CTBA class]
+description: Here is a test site for my CTBA class
 ---
 
 ![My Picture](/pictures/GCPicture.jpg)
