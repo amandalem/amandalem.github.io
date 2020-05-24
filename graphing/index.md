@@ -1,6 +1,6 @@
 ---
-title: M3 Grpahing Assignment
-description: Total Construction Spending Over Time
+title: Amanda's M3 Graphing Assignment
+description: Here is the graphing assignment for Amanda Lemerise
 ---
 
 Here is the M3 Graphing assignment I worked on for my CTBA course
