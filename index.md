@@ -1,6 +1,6 @@
 ---
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: M3 GitHub Repository Assignment
+description: Here is a test site for my CTBA class
 ---
 
 ![My Picture](/pictures/GCPicture.jpg)
