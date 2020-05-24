@@ -1,5 +1,6 @@
 ---
-layout: default
+title: M3 GitHub Portfolio Assignment
+description: Included in this website are the requirements for the M3 assignment.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
