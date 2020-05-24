@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Test title
+description: Test description.
+show_downloads: false
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
