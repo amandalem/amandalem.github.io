@@ -7,7 +7,7 @@ description: Here is a test site for my CTBA class
 
 This is content I worked on for my CTBA course:
 
-- [Graphing Assignment](/graphing/index.md)
+- [Amanda's Graphing Assignment](/graphing/index.md)
 
 Here is a link to a GitHub Repository
 
