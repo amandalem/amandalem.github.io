@@ -1,5 +1,5 @@
 ---
-title: M3 GitHub Portfolio Assignment
+title: M3 GitHub
 description: Included in this website are the requirements for the M3 assignment.
 ---
 
